@@ -1,0 +1,1069 @@
+# depslib dependency file v1.0
+1312761828 source:c:\documents and settings\hp\my documents\my projects\sfmlhw\main.cpp
+	"Singleton.hpp"
+
+1312707365 source:c:\documents and settings\hp\my documents\my projects\sfmlhw\player.cc
+	"Player.hpp"
+
+1310575914 c:\documents and settings\hp\my documents\my projects\sfmlhw\player.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	"namespaces.h"
+
+1310575523 c:\documents and settings\hp\my documents\my projects\sfmlhw\namespaces.cc
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	<sstream>
+
+1312762544 source:c:\documents and settings\hp\my documents\my projects\sfmlhw\tiles.cc
+	"Tiles.hpp"
+
+1312245498 c:\documents and settings\hp\my documents\my projects\sfmlhw\tiles.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+
+1310887376 c:\documents and settings\hp\my documents\my projects\sfmlhw\houses.h
+	<iostream>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+
+1312330687 source:c:\documents and settings\hp\my documents\my projects\sfmlhw\namespaces.cc
+	"namespaces.hpp"
+
+1312761853 source:c:\documents and settings\hp\my documents\my projects\sfmlhw\houses.cc
+	"Houses.hpp"
+
+1310663434 c:\documents and settings\hp\my documents\my projects\sfmlhw\namespaces.h
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	<sstream>
+
+1264589642 c:\program files\codeblocks\mingw\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PostFX.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/String.hpp>
+	<SFML/Graphics/View.hpp>
+
+1264589642 c:\program files\codeblocks\mingw\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Input.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowListener.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/OpenGL.hpp>
+
+1264589642 c:\program files\codeblocks\mingw\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Randomizer.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Unicode.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1264589642 c:\program files\codeblocks\mingw\include\sfml\config.hpp
+	<climits>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\clock.hpp
+	<SFML/Config.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\lock.hpp
+	<SFML/System/NonCopyable.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\noncopyable.hpp
+	<SFML/Config.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\mutex.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Win32/Mutex.hpp>
+	<SFML/System/Unix/Mutex.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\win32\mutex.hpp
+	<SFML/System/NonCopyable.hpp>
+	<windows.h>
+
+1258781516 c:\program files\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1258781517 c:\program files\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1258781517 c:\program files\codeblocks\mingw\include\winuser.h
+
+1258781517 c:\program files\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1258781516 c:\program files\codeblocks\mingw\include\winerror.h
+
+1267932703 c:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1267932699 c:\program files\codeblocks\mingw\include\_mingw.h
+
+1258781502 c:\program files\codeblocks\mingw\include\basetsd.h
+
+1258781511 c:\program files\codeblocks\mingw\include\pshpack4.h
+
+1258781511 c:\program files\codeblocks\mingw\include\poppack.h
+
+1258781517 c:\program files\codeblocks\mingw\include\winver.h
+
+1258781503 c:\program files\codeblocks\mingw\include\dde.h
+
+1258781504 c:\program files\codeblocks\mingw\include\dlgs.h
+
+1258781503 c:\program files\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1258781511 c:\program files\codeblocks\mingw\include\prsht.h
+
+1258781516 c:\program files\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1258781516 c:\program files\codeblocks\mingw\include\wincon.h
+
+1258781516 c:\program files\codeblocks\mingw\include\winbase.h
+
+1258781516 c:\program files\codeblocks\mingw\include\wingdi.h
+
+1258781517 c:\program files\codeblocks\mingw\include\winnls.h
+
+1258781516 c:\program files\codeblocks\mingw\include\winnetwk.h
+
+1258781517 c:\program files\codeblocks\mingw\include\winreg.h
+
+1258781517 c:\program files\codeblocks\mingw\include\winsvc.h
+
+1258781502 c:\program files\codeblocks\mingw\include\cderr.h
+
+1258781503 c:\program files\codeblocks\mingw\include\ddeml.h
+
+1258781505 c:\program files\codeblocks\mingw\include\imm.h
+
+1258781508 c:\program files\codeblocks\mingw\include\lzexpand.h
+
+1258781508 c:\program files\codeblocks\mingw\include\mmsystem.h
+
+1258781509 c:\program files\codeblocks\mingw\include\nb30.h
+
+1258781512 c:\program files\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1258781512 c:\program files\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1258781502 c:\program files\codeblocks\mingw\include\basetyps.h
+
+1258781513 c:\program files\codeblocks\mingw\include\rpcdcep.h
+
+1258781513 c:\program files\codeblocks\mingw\include\rpcnsi.h
+
+1258781513 c:\program files\codeblocks\mingw\include\rpcnterr.h
+
+1267932701 c:\program files\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1258781514 c:\program files\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1258781511 c:\program files\codeblocks\mingw\include\pshpack2.h
+
+1258781517 c:\program files\codeblocks\mingw\include\winperf.h
+
+1258781503 c:\program files\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1258781515 c:\program files\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1258781510 c:\program files\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1258781518 c:\program files\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1258781513 c:\program files\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1258781513 c:\program files\codeblocks\mingw\include\rpcnsip.h
+
+1258781517 c:\program files\codeblocks\mingw\include\winspool.h
+
+1258781517 c:\program files\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1258781517 c:\program files\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1258781509 c:\program files\codeblocks\mingw\include\mswsock.h
+
+1258781510 c:\program files\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1258781510 c:\program files\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1267932703 c:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1258781510 c:\program files\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1258781503 c:\program files\codeblocks\mingw\include\cguid.h
+
+1258781510 c:\program files\codeblocks\mingw\include\olectlid.h
+
+1258781510 c:\program files\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1258781510 c:\program files\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1258781511 c:\program files\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\system\unix\mutex.hpp
+	<SFML/System/NonCopyable.hpp>
+	<pthread.h>
+
+1275008154 c:\program files\codeblocks\mingw\include\pthread.h
+	<windows.h>
+	"config.h"
+	<_mingw.h>
+	<time.h>
+	<time.h>
+	<signal.h>
+	<setjmp.h>
+	<limits.h>
+	"need_errno.h"
+	<errno.h>
+	<sched.h>
+	<sys/types.h>
+
+1267932703 c:\program files\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1267932703 c:\program files\codeblocks\mingw\include\signal.h
+	<_mingw.h>
+
+1267932702 c:\program files\codeblocks\mingw\include\setjmp.h
+	<_mingw.h>
+
+1267932702 c:\program files\codeblocks\mingw\include\limits.h
+	<_mingw.h>
+
+1267932701 c:\program files\codeblocks\mingw\include\errno.h
+	<_mingw.h>
+
+1275008154 c:\program files\codeblocks\mingw\include\sched.h
+	"need_errno.h"
+	<errno.h>
+	<sys/types.h>
+	<time.h>
+
+1267932705 c:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\randomizer.hpp
+	<SFML/Config.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\sleep.hpp
+	<SFML/Config.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\thread.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Win32/Thread.hpp>
+	<SFML/System/Unix/Thread.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\win32\thread.hpp
+	<SFML/System/NonCopyable.hpp>
+	<windows.h>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\system\unix\thread.hpp
+	<SFML/System/NonCopyable.hpp>
+	<pthread.h>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\unicode.hpp
+	<SFML/Config.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<stdlib.h>
+	<SFML/System/Unicode.inl>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\unicode.inl
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\vector2.inl
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\vector3.inl
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\window\context.hpp
+	<SFML/Config.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\window\input.hpp
+	<SFML/Config.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/WindowListener.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\window\windowlistener.hpp
+	<SFML/Config.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\window\videomode.hpp
+	<SFML/Config.hpp>
+	<cstdlib>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\window\window.hpp
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Input.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowListener.hpp>
+	<SFML/Window/WindowSettings.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<queue>
+	<string>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\window\windowsettings.hpp
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\window\windowstyle.hpp
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\window\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+
+1258781518 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1258781519 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\color.hpp
+	<SFML/Config.hpp>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\font.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Unicode.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<map>
+	<string>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\resource.hpp
+	<set>
+	<SFML/System/Resource.inl>
+	<SFML/System/ResourcePtr.inl>
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\resource.inl
+
+1264589636 c:\program files\codeblocks\mingw\include\sfml\system\resourceptr.inl
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\glyph.hpp
+	<SFML/Config.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\rect.hpp
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\rect.inl
+
+1268907254 c:\program files\codeblocks\mingw\include\sfml\graphics\image.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\postfx.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Image.hpp>
+	<istream>
+	<map>
+	<string>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\drawable.hpp
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Matrix3.hpp>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\matrix3.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Vector2.hpp>
+	<math.h>
+	<SFML/Graphics/Matrix3.inl>
+
+1267932702 c:\program files\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1268907256 c:\program files\codeblocks\mingw\include\sfml\graphics\matrix3.inl
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\view.hpp
+	<SFML/Config.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Matrix3.hpp>
+	<SFML/System/Vector2.hpp>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/System/Vector2.hpp>
+	<vector>
+
+1268907252 c:\program files\codeblocks\mingw\include\sfml\graphics\sprite.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1264589634 c:\program files\codeblocks\mingw\include\sfml\graphics\string.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/System/Unicode.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+
+1312761663 c:\documents and settings\hp\my documents\my projects\sfmlhw\houses.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	"Objects.hpp"
+
+1312441003 c:\documents and settings\hp\my documents\my projects\sfmlhw\player.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	"namespaces.hpp"
+
+1312330228 c:\documents and settings\hp\my documents\my projects\sfmlhw\namespaces.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	<sstream>
+	<bitset>
+
+1312718617 c:\documents and settings\hp\my documents\my projects\sfmlhw\tiles.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	"Objects.hpp"
+
+1312279468 source:c:\documents and settings\hp\my documents\my projects\sfmlhw\collision.cc
+	"Collision.hpp"
+
+1312679796 c:\documents and settings\hp\my documents\my projects\sfmlhw\collision.hpp
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+
+1312595692 c:\documents and settings\hp\my documents\my projects\sfmlhw\singleton.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<map>
+	<string>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	"namespaces.hpp"
+	"Player.hpp"
+	"Tiles.hpp"
+	"Houses.hpp"
+	"Collision.hpp"
+	"AreaBuilder.hpp"
+
+1312762584 source:c:\documents and settings\hp\my documents\my projects\sfmlhw\singleton.cc
+	"Singleton.hpp"
+
+1312590222 source:c:\documents and settings\hp\my documents\my projects\sfmlhw\worldbuilder.cc
+	"WorldBuilder.hpp"
+
+1312590213 c:\documents and settings\hp\my documents\my projects\sfmlhw\worldbuilder.hpp
+
+1312594100 source:c:\documents and settings\hp\my documents\my projects\sfmlhw\areabuilder.cc
+	"AreaBuilder.hpp"
+
+1312764863 c:\documents and settings\hp\my documents\my projects\sfmlhw\areabuilder.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	"Tiles.hpp"
+	"Houses.hpp"
+
+1312718669 c:\documents and settings\hp\my documents\my projects\sfmlhw\objects.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<map>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+
+1312718733 source:c:\documents and settings\hp\my documents\my projects\sfmlhw\objectmanager.cc
+	"ObjectManager.hpp"
+
+1312743231 c:\documents and settings\hp\my documents\my projects\sfmlhw\objectmanager.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<map>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	"Tiles.hpp"
+	"Houses.hpp"
+	"Objects.hpp"
+
+1312797033 source:d:\dev\sfmlhw\areabuilder.cc
+	"AreaBuilder.hpp"
+
+1314233612 d:\dev\sfmlhw\areabuilder.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	"Tiles.hpp"
+	"Houses.hpp"
+
+1312738406 d:\dev\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/Renderer.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/View.hpp>
+
+1312738406 d:\dev\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1312738406 d:\dev\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1312738406 d:\dev\include\sfml\config.hpp
+
+1312738406 d:\dev\include\sfml\system\clock.hpp
+	<SFML/Config.hpp>
+
+1312738406 d:\dev\include\sfml\system\err.hpp
+	<SFML/Config.hpp>
+	<ostream>
+
+1312738406 d:\dev\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1312738406 d:\dev\include\sfml\system\lock.hpp
+	<SFML/System/NonCopyable.hpp>
+
+1312738406 d:\dev\include\sfml\system\noncopyable.hpp
+	<SFML/Config.hpp>
+
+1312738406 d:\dev\include\sfml\system\mutex.hpp
+	<SFML/Config.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1312738406 d:\dev\include\sfml\system\sleep.hpp
+	<SFML/Config.hpp>
+
+1312738406 d:\dev\include\sfml\system\string.hpp
+	<SFML/Config.hpp>
+	<locale>
+	<string>
+
+1312738406 d:\dev\include\sfml\system\thread.hpp
+	<SFML/Config.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1312738406 d:\dev\include\sfml\system\thread.inl
+
+1312738406 d:\dev\include\sfml\system\threadlocal.hpp
+	<SFML/Config.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1312738406 d:\dev\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1312738406 d:\dev\include\sfml\system\threadlocalptr.inl
+
+1312738406 d:\dev\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1312738406 d:\dev\include\sfml\system\utf.inl
+
+1312738406 d:\dev\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1312738406 d:\dev\include\sfml\system\vector2.inl
+
+1312738406 d:\dev\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1312738406 d:\dev\include\sfml\system\vector3.inl
+
+1312738406 d:\dev\include\sfml\window\context.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1312738406 d:\dev\include\sfml\window\glresource.hpp
+	<SFML/Config.hpp>
+
+1312738406 d:\dev\include\sfml\window\contextsettings.hpp
+
+1312738406 d:\dev\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+
+1312738406 d:\dev\include\sfml\window\joystick.hpp
+	<SFML/Config.hpp>
+
+1312738406 d:\dev\include\sfml\window\keyboard.hpp
+	<SFML/Config.hpp>
+
+1312738406 d:\dev\include\sfml\window\mouse.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Vector2.hpp>
+
+1312738406 d:\dev\include\sfml\window\videomode.hpp
+	<SFML/Config.hpp>
+	<vector>
+
+1312738406 d:\dev\include\sfml\window\window.hpp
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<string>
+
+1312738406 d:\dev\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1312738406 d:\dev\include\sfml\window\windowstyle.hpp
+
+1312738406 d:\dev\include\sfml\graphics\color.hpp
+	<SFML/Config.hpp>
+
+1312738406 d:\dev\include\sfml\graphics\font.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<map>
+	<string>
+	<vector>
+
+1312738406 d:\dev\include\sfml\system\resource.hpp
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<set>
+	<cstddef>
+	<SFML/System/Resource.inl>
+	<SFML/System/ResourcePtr.inl>
+
+1312738406 d:\dev\include\sfml\system\resource.inl
+
+1312738406 d:\dev\include\sfml\system\resourceptr.inl
+
+1312738406 d:\dev\include\sfml\graphics\glyph.hpp
+	<SFML/Config.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1312738406 d:\dev\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1312738406 d:\dev\include\sfml\graphics\rect.inl
+
+1312738406 d:\dev\include\sfml\graphics\texture.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Graphics/Image.hpp>
+
+1312738406 d:\dev\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1312738406 d:\dev\include\sfml\graphics\renderer.hpp
+	<SFML/Config.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Matrix3.hpp>
+
+1312738406 d:\dev\include\sfml\graphics\drawable.hpp
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Matrix3.hpp>
+
+1312738406 d:\dev\include\sfml\graphics\matrix3.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<cmath>
+	<SFML/Graphics/Matrix3.inl>
+
+1312738406 d:\dev\include\sfml\graphics\matrix3.inl
+
+1312738406 d:\dev\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1312738406 d:\dev\include\sfml\graphics\rendertarget.hpp
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Renderer.hpp>
+	<SFML/Graphics/View.hpp>
+
+1312738406 d:\dev\include\sfml\graphics\view.hpp
+	<SFML/Config.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Matrix3.hpp>
+	<SFML/System/Vector2.hpp>
+
+1312738406 d:\dev\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1312738406 d:\dev\include\sfml\graphics\shader.hpp
+	<SFML/Config.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1312738406 d:\dev\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/System/Vector2.hpp>
+	<vector>
+
+1312738406 d:\dev\include\sfml\graphics\sprite.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1312738406 d:\dev\include\sfml\graphics\text.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/System/String.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+
+1314233612 d:\dev\sfmlhw\tiles.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+
+1314233715 d:\dev\sfmlhw\objects.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<map>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+
+1314233612 d:\dev\sfmlhw\houses.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	"Objects.hpp"
+	"ObjectManager.hpp"
+
+1313022319 source:d:\dev\sfmlhw\collision.cc
+	"Collision.hpp"
+
+1313312909 d:\dev\sfmlhw\collision.hpp
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	"Player.hpp"
+	"ObjectManager.hpp"
+
+1313311650 source:d:\dev\sfmlhw\houses.cc
+	"Houses.hpp"
+
+1313024604 source:d:\dev\sfmlhw\objectmanager.cc
+	"ObjectManager.hpp"
+
+1314233612 d:\dev\sfmlhw\objectmanager.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<map>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	"Tiles.hpp"
+	"Houses.hpp"
+	"Objects.hpp"
+
+1313286395 source:d:\dev\sfmlhw\player.cc
+	"Player.hpp"
+
+1313286320 d:\dev\sfmlhw\player.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	"namespaces.hpp"
+
+1313259041 d:\dev\sfmlhw\namespaces.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Graphics/String.hpp>
+	<sstream>
+	<bitset>
+
+1313312160 source:d:\dev\sfmlhw\singleton.cc
+	"Singleton.hpp"
+
+1313022468 d:\dev\sfmlhw\singleton.hpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<map>
+	<string>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Graphics/String.hpp>
+	"namespaces.hpp"
+	"Player.hpp"
+	"Tiles.hpp"
+	"Houses.hpp"
+	"Collision.hpp"
+	"AreaBuilder.hpp"
+
+1313024236 source:d:\dev\sfmlhw\tiles.cc
+	"Tiles.hpp"
+
+1313239717 source:d:\dev\sfmlhw\main.cpp
+	"Singleton.hpp"
+
+1313259036 source:d:\dev\sfmlhw\namespaces.cc
+	"namespaces.hpp"
+
+1313050242 d:\dev\sfmlhw\colbase.hpp
+

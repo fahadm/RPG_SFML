@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SFMLHW" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option show_notes="0">
+			<notes>
+				<![CDATA[Todo List:
+
+i.Come Up With a Better Collision Strategy and modify the collsion class ( forced OOP is bad OOP).
+ii.Write a Hud Class.
+iii. Write a Generic Class For Objects inside the house (Use House Class as a Reference).
+iv.Try to use a scripting language to ease the dev process.
+v.Come Up with a story.
+vi. Write a In-Battle class.
+vii.Write a monsters class.
+viii.Come up with a list of monsters.
+ix. Write an AI class (may or may not be generic).
+x.Get a Designer for free to help me make more textures.
+xi. Use Boost Libraries.
+xii.Write Server code for multiplayer.
+/*
+Tech Details RAW/tentative
+Accept cordinates , Collision on client side.
+UDP  
+
+*/
+xiii.Write a Basic chat class in the client.
+xiv.Write Network code for the client to wor with the server. 
+xv.Optimize the Code.
+xvi.Atleast Get around 25-30 fps on my machine.
+
+**Points xii-xiv are to be done only if points i - x. Are meet Satisfactorily.
+//Todo Add more Tasks
+
+
+]]>
+			</notes>
+		</Option>
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\SFMLHW" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-pg" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-pg -lgmon" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\SFMLHW" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-fomit-frame-pointer" />
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-Os" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-DSFML_STATIC" />
+			<Add directory="D:\Dev\include" />
+		</Compiler>
+		<Linker>
+			<Add library="D:\Dev\lib\libsfml-audio-s.a" />
+			<Add library="D:\Dev\lib\libsfml-graphics-s.a" />
+			<Add library="D:\Dev\lib\libsfml-window-s.a" />
+			<Add library="D:\Dev\lib\libsfml-system-s.a" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="D:\Dev\lib" />
+		</Linker>
+		<Unit filename="AreaBuilder.cc" />
+		<Unit filename="AreaBuilder.hpp" />
+		<Unit filename="Collision.cc" />
+		<Unit filename="Collision.hpp" />
+		<Unit filename="Houses.cc" />
+		<Unit filename="Houses.hpp" />
+		<Unit filename="ObjectManager.cc" />
+		<Unit filename="ObjectManager.hpp" />
+		<Unit filename="Objects.hpp" />
+		<Unit filename="Player.cc" />
+		<Unit filename="Player.hpp" />
+		<Unit filename="Singleton.cc" />
+		<Unit filename="Singleton.hpp" />
+		<Unit filename="Tiles.cc" />
+		<Unit filename="Tiles.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="namespaces.cc" />
+		<Unit filename="namespaces.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
